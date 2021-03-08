@@ -577,7 +577,7 @@ const numbers = [1, 2, 3]
 and the result is an array `[1, 2, 3, 4, 5]`.
 
 
-If we would have just placed the _numbers_ array in another array, without usint the spread operator
+If we would have just placed the _numbers_ array in another array, without using the spread operator
 
 ```js
 [numbers, 4, 5]
